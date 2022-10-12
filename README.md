@@ -98,3 +98,4 @@ Looking for more guidance? Full documentation for Gatsby lives [on the website](
 
 <!-- AUTO-GENERATED-CONTENT:END -->
 commit 1
+commit -readding 2
